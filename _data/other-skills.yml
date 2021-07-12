@@ -1,0 +1,7 @@
+- name: Tableau
+  percentage: 70
+  color: success
+
+- name: SPSS
+  percentage: 60
+  color: info
